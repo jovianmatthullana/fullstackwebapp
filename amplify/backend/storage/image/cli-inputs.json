@@ -1,0 +1,14 @@
+{
+  "resourceName": "image",
+  "policyUUID": "e2d8cf31",
+  "bucketName": "fullstackwebapp30bd2895b8cf4ec0b71970554a11bd2e",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger6b371baa",
+  "groupAccess": {}
+}
